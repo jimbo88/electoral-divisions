@@ -1,0 +1,17 @@
+body {
+  padding-top: 0px;
+  margin-left: 0px
+}
+
+#maincontainer {
+  margin:0px;
+  padding:0px;
+}
+
+.creditfooter {
+  position: absolute;
+  z-index:5;
+  bottom: 0px;
+  padding: 0px 1em;
+  text-align: center;
+}
